@@ -3,8 +3,8 @@
     "version": "0.1.0",
     "meta": {
         "label": "FinBERT",
-        "category": "Your category (optional)",
-        "description": "Your description (keep it short and simple)",
+        "category": "Natural Language Processing",
+        "description": "Estimate the sentiment polarity (positive/negative) of a text using pre-trained FinBERT model",
         "author": "Dataiku (Amanda Milberg)",
         "icon": "icon-github",
         "licenseInfo": "Apache Software License",
