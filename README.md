@@ -1,4 +1,4 @@
-# Plugin Template
+# FinBERT Plugin
 
 This repository is a template for developers to create Dataiku DSS plugins from GitHub.
 
