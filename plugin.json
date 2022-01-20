@@ -2,7 +2,7 @@
     "id": "your-plugin-id",
     "version": "0.1.0",
     "meta": {
-        "label": "FinBERT",
+        "label": "FinBERT - hi its amanda",
         "category": "Natural Language Processing",
         "description": "Estimate the sentiment polarity (positive/negative) of a text using pre-trained FinBERT model",
         "author": "Dataiku (Amanda Milberg)",
