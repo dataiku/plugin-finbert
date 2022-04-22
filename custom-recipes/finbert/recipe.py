@@ -48,7 +48,9 @@ import dataiku
 import pandas as pd, numpy as np
 from dataiku import pandasutils as pdu
 import nltk
-nltk.download('punkt')
+nltk.data.path.append('/tmp/nltk')
+if not (os.path.exists("/tmp/nltk")):
+  nltk.download('punkt', download_dir='/tmp/nltk')
 from finbert.finbert import *
 import finbert.utils as tools
 
