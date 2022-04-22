@@ -20,3 +20,4 @@ transformers
 torch
 torchvision
 matplotlib
+tokenizers==0.10.3
